@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🎰 JackpotMachine777
 
-<!--
-**JackpotMachine777/JackpotMachine777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm 17 and on my way to becoming a fullstack web developer.  
+So far, I'm comfortable with HTML, CSS, JavaScript, Node.js and SQL.  
+This summer I'm learning React and building fullstack projects. 🚀
 
-Here are some ideas to get you started:
+## 🔧 Tech stack I'm working with:
+- HTML / CSS / JavaScript (OOP)
+- Node.js / Express / SQL
+- React (currently learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 My goal:
+**To land a junior fullstack developer job during school year (after classes)**
+
+## 📁 My projects:
+- 🎰 [Slot Machine – built with pure JS](#)  
+- 💻 More coming soon – portfolio in progress!
