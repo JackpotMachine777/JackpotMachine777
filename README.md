@@ -13,5 +13,5 @@ This summer I'm learning React and building fullstack projects. 🚀
 **To land a junior fullstack developer job during school year (after classes)**
 
 ## 📁 My projects:
-- 🎰 [Slot Machine – built with pure JS](#)  
+- 🎰 [Slot Machine – built with pure JS](https://github.com/JackpotMachine777/jackpot-machine)
 - 💻 More coming soon – portfolio in progress!
