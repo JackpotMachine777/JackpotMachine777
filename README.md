@@ -13,6 +13,6 @@ This summer I'm learning React and building fullstack projects. 🚀
 **To land a junior fullstack developer job during school year (after classes)**
 
 ## 📁 My projects:
-- 📊 [System monitor - build with JS and Rust](https://github.com/JackpotMachine777/tauri-system-monitor)
+- 📊 [System monitor - built with JS and Rust](https://github.com/JackpotMachine777/tauri-system-monitor)
 - 🎰 [Slot Machine – built with pure JS](https://github.com/JackpotMachine777/slot-machine)
 - 💻 More coming soon – portfolio in progress!
