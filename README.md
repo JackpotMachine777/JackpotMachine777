@@ -15,4 +15,5 @@ This summer I'm learning React and building fullstack projects. 🚀
 ## 📁 My projects:
 - 📊 [System monitor - built with JS and Rust](https://github.com/JackpotMachine777/tauri-system-monitor)
 - 🎰 [Slot Machine – built with pure JS](https://github.com/JackpotMachine777/slot-machine)
+- ✨ [Simple landing page for non-existent company](https://github.com/JackpotMachine777/simple-landing-page)
 - 💻 More coming soon – portfolio in progress!
