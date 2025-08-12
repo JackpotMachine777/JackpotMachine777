@@ -1,6 +1,6 @@
 # 🎰 JackpotMachine777
 
-Hi there! I'm 17 and on my way to becoming a fullstack web developer.  
+Hi there! I'm 18 and on my way to becoming a fullstack web developer.  
 So far, I'm comfortable with HTML, CSS, JavaScript, Node.js, SQL and MongoDB with Mongoose.  
 This summer I'm learning React and building fullstack projects. 🚀
 
