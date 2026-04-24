@@ -9,17 +9,17 @@ This summer I'm learning React and building fullstack projects. 🚀
 - HTML / CSS / JavaScript (OOP)
 - Node.js / SQL
 - MongoDB / Mongoose
+- React / Typescript
 
 **Currently learning:**
-- React
 - Express
-- TypeScript
 - Rust
 
 ## 🎯 My goal:
 **To land a junior fullstack developer job during school year (after classes)**
 
 ## 📁 My projects:
+- 🖥️ [Rusty Monitor - System monitor rewritten in React and Rust](https://github.com/JackpotMachine777/rusty-monitor)
 - 📊 [System monitor - built with JS and Rust](https://github.com/JackpotMachine777/tauri-system-monitor)
 - 📁 [Programming projects manager - built with React and Rust](https://github.com/JackpotMachine777/tauri-projects-manager)
 - 🎰 [Slot Machine – built with pure JS](https://github.com/JackpotMachine777/slot-machine)
