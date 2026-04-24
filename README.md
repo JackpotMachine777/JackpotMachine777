@@ -1,27 +1,29 @@
 # 🎰 JackpotMachine777
 
-Hi there! I'm 18 and on my way to becoming a fullstack web developer.  
-So far, I'm comfortable with HTML, CSS, JavaScript, Node.js, SQL and MongoDB with Mongoose.  
-This summer I'm learning React and building fullstack projects. 🚀
+Frontend developer. 18 y/o, building with React, TypeScript and Next.js.  
+Also into desktop apps with Tauri + Rust because why not.
 
-## 🔧 Tech stack:
-**I work with:**
-- HTML / CSS / JavaScript (OOP)
-- Node.js / SQL
-- MongoDB / Mongoose
-- React / Typescript
+---
 
-**Currently learning:**
-- Express
-- Rust
+## Stack
 
-## 🎯 My goal:
-**To land a junior fullstack developer job during school year (after classes)**
+**Day to day:**
+- React / Next.js / TypeScript
+- HTML / CSS / JavaScript
 
-## 📁 My projects:
-- 🖥️ [Rusty Monitor - System monitor rewritten in React and Rust](https://github.com/JackpotMachine777/rusty-monitor)
-- 📊 [System monitor - built with JS and Rust](https://github.com/JackpotMachine777/tauri-system-monitor)
-- 📁 [Programming projects manager - built with React and Rust](https://github.com/JackpotMachine777/tauri-projects-manager)
-- 🎰 [Slot Machine – built with pure JS](https://github.com/JackpotMachine777/slot-machine)
-- ✨ [Simple landing page for non-existent company](https://github.com/JackpotMachine777/simple-landing-page)
-- 💻 More coming soon – portfolio in progress!
+**Also know:**
+- Rust / Tauri
+- Node.js / Express / SQL / MongoDB
+
+---
+
+## Projects
+
+- 🖥️ [Rusty Monitor](https://github.com/JackpotMachine777/rusty-monitor) — system monitor (CPU, RAM, GPU, processes, disks, network) built with React + TypeScript + Rust/Tauri
+- 📁 [Projects Manager](https://github.com/JackpotMachine777/tauri-projects-manager) — desktop app for managing programming projects, built with React + Rust/Tauri
+- 🎰 [Slot Machine](https://github.com/JackpotMachine777/slot-machine) — slot machine game in vanilla JS
+- ✨ [Landing Page](https://github.com/JackpotMachine777/simple-landing-page) — sample business landing page
+
+---
+
+Open to remote junior frontend developer work (part-time, after school hours).
