@@ -19,6 +19,7 @@ Also into desktop apps with Tauri + Rust because why not.
 
 ## Projects
 
+- 📋 [Clippr](https://github.com/JackpotMachine777/clippr) - clipboard manager for Linux with auto-tagging, image support, search and system tray, built with React + TypeScript + Rust/Tauri + Python + SQLite
 - 🖥️ [Rusty Monitor](https://github.com/JackpotMachine777/rusty-monitor) — system monitor (CPU, RAM, GPU, processes, disks, network) built with React + TypeScript + Rust/Tauri
 - 📁 [Projects Manager](https://github.com/JackpotMachine777/tauri-projects-manager) — desktop app for managing programming projects, built with React + Rust/Tauri
 - 🎰 [Slot Machine](https://github.com/JackpotMachine777/slot-machine) — slot machine game in vanilla JS
